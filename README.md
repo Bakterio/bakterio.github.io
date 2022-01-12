@@ -1,1 +1,1 @@
-[website link](www.bakterio.github.io)
+[website link](https://bakterio.github.io/)
